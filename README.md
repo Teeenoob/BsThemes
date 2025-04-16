@@ -10,9 +10,9 @@
 
 
 > [!IMPORTANT]
-> ### ENA: Dream BBQ Theme - [newest]()
+> ### ENA: Dream BBQ Theme (simple) - [newest](https://github.com/Teeenoob/BsThemes/raw/refs/heads/main/ENADBBQSimple.zip)
 >
-> ![Bloxstrap_ENA]()
+> ![Bloxstrap_ENA](https://raw.githubusercontent.com/Teeenoob/BsThemes/refs/heads/main/Bloxstrap_ENA.gif)
 
 
 > [!IMPORTANT]
